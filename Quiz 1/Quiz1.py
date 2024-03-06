@@ -12,7 +12,7 @@ def validar_senha(senha):
 
     return "Senha valida."
 
-# Leitura da entrada e processamento dos casos de teste
+
 while True:
     try:
         senha = input()
